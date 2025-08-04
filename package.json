@@ -36,5 +36,8 @@
     "sdk/route",
     "sdk/examples",
     "cli"
-  ]
+  ],
+  "dependencies": {
+    "quais": "^1.0.0-alpha.50"
+  }
 }
